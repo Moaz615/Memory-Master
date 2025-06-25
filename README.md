@@ -16,7 +16,7 @@ Beautiful Nemory Card Game built with HTML, Css, and Javascript. Are you ready t
 
 ## How to Play
 
-1. Open `index.html` in your browser
+1. Open [the game](https://moaz615.github.io/Memory-Master/) in your browser
 2. Choose difficulty and click cards to find matching pairs
 3. Complete all pairs to win!
 4. Use arrow keys or WASD to navigate with keyboard
